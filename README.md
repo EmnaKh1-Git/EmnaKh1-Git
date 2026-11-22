@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Emna Khelifi 👋
 
-<!--
-**EmnaKh1-Git/EmnaKh1-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Software Architecture Engineering student at **ESPRIT**, looking for a
+**6-month PFE internship** in software development, DevOps/CI-CD and AI/LLM agents.
 
-Here are some ideas to get you started:
+## What I work with
+- **Backend:** Java, Spring Boot (microservices), Node.js
+- **Frontend:** Angular, TypeScript, Flutter
+- **DevOps:** Docker, Kubernetes, Jenkins, SonarQube, Prometheus, Grafana
+- **Cloud & Security:** AWS, Keycloak, OAuth2, JWT
+- **AI:** Spring AI, Ollama, tool calling, RAG, scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- 🤖 **AI Banking Assistant**: LLM agent with tool calling (Spring AI + Ollama)
+- 🎓 **PathMyWay**: microservices platform with a full Jenkins CI/CD pipeline on Azure
+
+## Contact
+📧 Emna.khelifi@esprit.tn · 💼 https://www.linkedin.com/in/emna-khelifi-645a91264/  .
