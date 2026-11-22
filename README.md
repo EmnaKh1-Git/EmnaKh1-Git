@@ -10,9 +10,6 @@ Final-year Software Architecture Engineering student at **ESPRIT**, looking for 
 - **Cloud & Security:** AWS, Keycloak, OAuth2, JWT
 - **AI:** Spring AI, Ollama, tool calling, RAG, scikit-learn
 
-## Featured projects
-- 🤖 **AI Banking Assistant**: LLM agent with tool calling (Spring AI + Ollama)
-- 🎓 **PathMyWay**: microservices platform with a full Jenkins CI/CD pipeline on Azure
 
 ## Contact
 📧 Emna.khelifi@esprit.tn · 💼 https://www.linkedin.com/in/emna-khelifi-645a91264/  .
